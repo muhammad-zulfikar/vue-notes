@@ -33,7 +33,6 @@
 </template>
 
 <script setup lang="ts">
-  import { defineProps, defineEmits } from 'vue';
   import Heading from './heading/heading.vue';
   import TextFormat from './textFormat/textFormat.vue';
   import TextAlign from './textAlign/textAlign.vue';

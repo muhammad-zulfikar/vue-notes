@@ -17,7 +17,7 @@
   );
 
   const SaveAlertModal = defineAsyncComponent(
-    () => import('@/components/composable/modal/alertModal.vue')
+    () => import('@/components/composable/modal/saveAlertModal.vue')
   );
 
   const VersionModal = defineAsyncComponent(
